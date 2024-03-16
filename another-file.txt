@@ -1,6 +1,7 @@
-Another file created in feature branch.
+Replaced by feature-2 branch.
 
 This file was modified locally.
 
 ================Updated Another file using github===========================
 
+Added new line by feature-2 branch *****************************************
